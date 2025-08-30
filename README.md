@@ -30,3 +30,7 @@ Provide actionable insights for marketing (promotions at peak times).
 Optimize inventory based on popular sizes & categories.
 
 Guide menu decisions (expand on popular pizzas, reconsider low-performing ones).
+
+
+## Dataset Used
+- <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/project_pizz_potflo.xlsx"
