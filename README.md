@@ -23,10 +23,8 @@ Highlight the best-selling pizzas that drive sales.
 Identify the worst-performing pizzas for possible improvement or removal.
 
 
-#3.Business Strategy Support
+# 3.Business Strategy Support
 
-     . Provide actionable insights for marketing (promotions at peak times).
-
-     . Optimize inventory based on popular sizes & categories.
-
-     . Guide menu decisions (expand on popular pizzas, reconsider low-performing ones).
+Provide actionable insights for marketing (promotions at peak times).
+Optimize inventory based on popular sizes & categories.
+Guide menu decisions (expand on popular pizzas, reconsider low-performing ones).
