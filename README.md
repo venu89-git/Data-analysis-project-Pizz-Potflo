@@ -65,7 +65,7 @@ Hourly Order Trend (orders by hour)
 
 Total Pizzas Sold by Category
 
-Product Performance Metrics
+- 5.Product Performance Metrics
 
 Top 5 Best-Selling Pizzas
 
