@@ -37,13 +37,13 @@ Guide menu decisions (expand on popular pizzas, reconsider low-performing ones).
 
 ## 📊 Key Performance Indicators (KPIs)
 
-Revenue Metrics
+-1.Revenue Metrics
 
 Total Revenue 💵
 
 Average Order Value (AOV) 💲
 
-Order Metrics
+-2.Order Metrics
 
 Total Orders 📦
 
@@ -51,13 +51,13 @@ Total Pizzas Sold 🍕
 
 Average Pizzas per Order
 
-Trend Metrics
+-3.Trend Metrics
 
 Daily Order Trend (orders by day of week)
 
 Hourly Order Trend (orders by hour)
 
-Category & Size Metrics
+-4.Category & Size Metrics
 
 % Sales by Pizza Category
 
