@@ -5,7 +5,7 @@ The main objective of this project is to analyze pizza sales data to gain valuab
 
 .Specifically, the project aims to:
 
-## 1.Understand Sales Performance
+-- 1.Understand Sales Performance
 
 Track revenue, total orders, and average order value.
 
