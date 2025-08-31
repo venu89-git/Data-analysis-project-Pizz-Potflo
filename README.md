@@ -166,3 +166,69 @@ Share sample dataset instead of full data.
 ✅ Protection: Keep repository private if database is confidential.
 
 - Dashbord Interaction <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/Screenshot%202025-08-30%20200556.png"
+
+  
+
+# 📊 About the SQL Queries
+
+In this project, SQL Server was used to extract and analyze pizza sales data.
+The queries were designed to answer key business questions and generate the metrics used in the dashboard.
+
+- 1. KPI Queries
+
+These queries calculate the core business metrics:
+
+Total Revenue – the sum of all sales.
+
+Average Order Value – the average revenue per order.
+
+Total Pizzas Sold – the total quantity of pizzas sold.
+
+Total Orders – the number of unique customer orders.
+
+Average Pizzas per Order – how many pizzas are included in a typical order.
+
+- 2. Trend Analysis Queries
+
+These queries show when customers order the most:
+
+Daily Trend – orders broken down by day of the week (to see which days are busiest).
+
+Hourly Trend – orders broken down by hour (to find peak lunch and dinner times).
+
+- 3. Sales by Category & Size
+
+These queries analyze customer preferences:
+
+% of Sales by Category – revenue share for Classic, Chicken, Veggie, and Supreme pizzas.
+
+% of Sales by Size – revenue share for Small, Medium, Large, and X-Large pizzas.
+
+Total Pizzas Sold by Category – which categories sell the most in a given month.
+
+- 4. Product Performance
+
+These queries highlight best and worst performing pizzas:
+
+Top 5 Best Sellers – most popular pizzas by quantity sold.
+
+Bottom 5 Worst Sellers – least popular pizzas by quantity sold.
+
+- 5. Filters & Customization
+
+The queries can be filtered by Month, Quarter, or Week to focus on a specific time period.
+For example:
+
+January sales only.
+
+First quarter sales.
+
+Weekly breakdowns.
+
+✅ In summary:
+The SQL queries act as the backbone of the dashboard, feeding Excel or Power BI with accurate data for KPIs, trends, and insights.
+
+#📊 SQL Queries
+
+All the key KPIs, trends, and insights in this dashboard were generated using SQL Server queries.
+👉 You can find the full list of queries here: <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx.pdf"
