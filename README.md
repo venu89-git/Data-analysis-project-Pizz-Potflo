@@ -72,7 +72,7 @@ Top 5 Best-Selling Pizzas
 Bottom 5 Worst-Selling Pizzas
 
 
-##📝 Step-by-Step Project Process (Updated)
+## 📝 Step-by-Step Project Process (Updated)
 - Step 1: Collect & Understand Data
 
 Original pizza sales data is stored in SQL Server database.
