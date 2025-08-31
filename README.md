@@ -164,3 +164,5 @@ requirements.md (Excel version, SQL version).
 Share sample dataset instead of full data.
 
 ✅ Protection: Keep repository private if database is confidential.
+
+- Dashbord Interaction <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/Screenshot%202025-08-30%20200556.png"
