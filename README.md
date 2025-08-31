@@ -165,7 +165,8 @@ Share sample dataset instead of full data.
 
 ✅ Protection: Keep repository private if database is confidential.
 
-- Dashbord Interaction <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/Screenshot%202025-08-30%20200556.png"
+
+## Dashbord Interaction <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/Screenshot%202025-08-30%20200556.png"
 
   
 
@@ -228,7 +229,7 @@ Weekly breakdowns.
 ✅ In summary:
 The SQL queries act as the backbone of the dashboard, feeding Excel or Power BI with accurate data for KPIs, trends, and insights.
 
-#📊 SQL Queries
+## 📊 SQL Queries
 
 All the key KPIs, trends, and insights in this dashboard were generated using SQL Server queries.
 👉 You can find the full list of queries here: <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx.pdf"
