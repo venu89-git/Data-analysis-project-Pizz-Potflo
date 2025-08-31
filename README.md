@@ -233,3 +233,24 @@ The SQL queries act as the backbone of the dashboard, feeding Excel or Power BI 
 
 All the key KPIs, trends, and insights in this dashboard were generated using SQL Server queries.
 👉 You can find the full list of queries here: <a href="https://github.com/venu89-git/Data-analysis-project-Pizz-Potflo/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx.pdf"
+
+# 📊 Project Insights
+
+Revenue mainly from Large pizzas (46%) and Classic category (27%).
+
+Fridays & evenings are peak sales; lunch (12–1 PM) and dinner (6–8 PM) are busiest hours.
+
+Top sellers: Classic Deluxe, Pepperoni, Thai Chicken.
+
+Worst sellers: Brie Carre, Spinach Pesto, Italian Vegetables.
+
+Customers buy ~2.3 pizzas/order, showing preference for value in larger sizes.
+# 📝 Project Conclusion
+
+Business relies on large & classic pizzas → continue promotions.
+
+Regular size & niche flavors underperform → reconsider or improve.
+
+Focus marketing on weekends & peak hours for maximum impact.
+
+SQL + Excel/Power BI integration delivers actionable, data-driven insights
